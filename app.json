@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "montannaApp",
-    "slug": "montannaApp",
+    "name": "Montanna-Mobile",
+    "slug": "Montanna-Mobile",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
